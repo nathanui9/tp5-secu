@@ -1,0 +1,1 @@
+{"statusCode":200,"body":"{\"loaded\":2,\"parameters\":[{\"name\":\"/tp5/app/API_TOKEN\",\"type\":\"SecureString\",\"version\":2,\"lastModifiedDate\":\"2026-04-16T07:05:05.653Z\"},{\"name\":\"/tp5/app/DB_HOST\",\"type\":\"String\",\"version\":1,\"lastModifiedDate\":\"2026-04-16T06:53:09.609Z\"}],\"note\":\"Aucune valeur sensible n'est loggée ni renvoyée.\"}"}
