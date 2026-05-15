@@ -3,11 +3,9 @@ locals {
   param_path = "/tp5/app/"
   tags = {
     Project     = var.project
-    TP          = "TP5"
-    Owner       = "students"
     Environment = "tp5"
     ManagedBy   = "Terraform"
-  }
+}
 }
 
 data "aws_caller_identity" "current" {}
